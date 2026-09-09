@@ -952,7 +952,7 @@ st.html("""
     </div>
 
     <div class="footer-name">
-        Developed by Mayuri Moreshwar Khaparde
+        Developed by Nuha Mushtaq
     </div>
 
     <br>
